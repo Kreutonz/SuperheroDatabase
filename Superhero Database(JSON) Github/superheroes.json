@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Captain Marvel",
+    "superpower": "Photo Blast",
+    "heightInCm": 170.0,
+    "civiliansSaved": 5000
+  },
+  {
+    "name": "Batman",
+    "superpower": "Super Rich",
+    "heightInCm": 183.0,
+    "civiliansSaved": 300
+  },
+  {
+    "name": "Storm",
+    "superpower": "Control Weather",
+    "heightInCm": 200.0,
+    "civiliansSaved": 2000
+  },
+  {
+    "name": "Deadpool",
+    "superpower": "Cannot die",
+    "heightInCm": 190.0,
+    "civiliansSaved": 2500
+  },
+  {
+    "name": "Superman",
+    "superpower": "Alien",
+    "heightInCm": 2000.0,
+    "civiliansSaved": 0
+  }
+]
